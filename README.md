@@ -47,5 +47,5 @@ Build Command: pip install -r requirements.txt
 Start Command: gunicorn app:app
 
 ✍️ Author
-Masango Dewheretsoko - https://github.com/Masngo/disease-prediction-app 
+Masango Dewheretsoko - GitHub | LinkedIn
 
