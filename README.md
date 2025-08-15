@@ -12,7 +12,7 @@ Installation
 Clone the repository from GitHub to your local machine:
 
 git clone https://github.com/Masngo/disease-prediction-app.git
-cd https://github.com/Masngo/disease-prediction-app
+cd disease-prediction-app
 
 Create and activate a virtual environment. This is a best practice to manage project dependencies.
 
