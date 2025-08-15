@@ -24,6 +24,7 @@ Prediction Result
 
 🧠 Workflow Diagram
 flowchart LR
+
     A[User Inputs Symptoms] --> B[Flask Web App]
     B --> C[Rule-Based Logic]
     C --> D[Possible Disease Prediction]
