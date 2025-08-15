@@ -48,4 +48,4 @@ Start Command: gunicorn app:app
 
 ✍️ Author
 Masango Dewheretsoko - https://github.com/Masngo/disease-prediction-app 
-LinkedIn link - linkedin.com/in/masango-dewheretsoko-5ba182148
+
