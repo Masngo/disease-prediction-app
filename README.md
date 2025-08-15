@@ -78,6 +78,7 @@ disease-prediction-app/
 Masango Dewheretsoko
 
 •	GitHub
+
 •	LinkedIn
 
 
