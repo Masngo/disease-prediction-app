@@ -74,7 +74,7 @@ disease-prediction-app/
 
 ├── templates/             # HTML templates
 
-├── static/                # CSS, JS, Images
+├── static/                # Images
 
 ├── requirements.txt       # Dependencies
 
