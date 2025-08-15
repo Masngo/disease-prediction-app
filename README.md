@@ -6,7 +6,11 @@ It uses Python and a rule-based logic engine to match symptoms with potential co
 This project is designed for educational purposes and as a demonstration of building and deploying a web-based medical tool.
 
 📸 Screenshots
+
 Homepage
+
+ 
+ 
  
  
 
