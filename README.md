@@ -74,10 +74,15 @@ Visit the app in your browser:
 http://127.0.0.1:5000/
 
 🛠️ Deployment
+
 This app is ready for deployment on platforms like Render or Heroku.
+
 Build Command:
+
 pip install -r requirements.txt
+
 Start Command:
+
 gunicorn app:app
 
 📂 Project Structure
