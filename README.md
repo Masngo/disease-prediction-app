@@ -8,6 +8,7 @@ This project is designed for educational purposes and as a demonstration of buil
 📸 Screenshots
 
 Homepage
+
 <img width="1358" height="631" alt="home" src="https://github.com/user-attachments/assets/02813cf7-7a09-44ef-94c2-4ac6d6917944" /> 
 
 <img width="1349" height="438" alt="home3" src="https://github.com/user-attachments/assets/aa2b29c9-b1c3-4120-809e-06aae4ed173a" /> 
@@ -27,7 +28,9 @@ Prediction Result
 
  
 
+
 🧠 Workflow Diagram
+
 flowchart LR
 
     A[User Inputs Symptoms] --> B[Flask Web App]
