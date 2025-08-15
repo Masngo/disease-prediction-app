@@ -29,6 +29,8 @@ Prediction Result
  
 
 
+
+
 🧠 Workflow Diagram
 
 flowchart LR
@@ -39,10 +41,13 @@ flowchart LR
     D --> E[Display on Web UI]
 
 🚀 Getting Started
+
 Follow these steps to run the application locally.
 
 Prerequisites
+
 •	Python 3.9+
+
 
 •	pip (Python package manager)
 
@@ -50,14 +55,16 @@ Installation
 1.	Clone the repository
 git clone https://github.com/Masngo/disease-prediction-app.git
 cd disease-prediction-app
-2.	Create and activate a virtual environment
+
+3.	Create and activate a virtual environment
 macOS/Linux:
 python3 -m venv venv
 source venv/bin/activate
+
 Windows:
 python -m venv venv
 venv\Scripts\activate
-3.	Install dependencies
+4.	Install dependencies
 pip install -r requirements.txt
 
 Usage
