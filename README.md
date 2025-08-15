@@ -69,11 +69,17 @@ gunicorn app:app
 disease-prediction-app/
 
 │
+
 ├── app.py                 # Flask application
+
 ├── templates/             # HTML templates
+
 ├── static/                # CSS, JS, Images
+
 ├── requirements.txt       # Dependencies
+
 ├── assets/                # Screenshots
+
 └── README.md              # Documentation
 
 ✍️ Author
