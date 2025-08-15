@@ -1,51 +1,77 @@
-# disease-prediction-app
+# Disease Prediction System 🩺🤖
 This is a comprehensive, end-to-end machine learning-based application for disease prediction. It leverages Python and Flask to create a web-based interface that utilizes a trained machine learning model to predict diseases based on a patient's symptoms. The project demonstrates a full MLOps pipeline, from data preparation and model training to robust evaluation and final deployment.
 
-Disease Prediction System
+A Flask-based web application that predicts possible diseases based on symptoms entered by the user.
+It uses Python and a rule-based logic engine to match symptoms with potential conditions.
+This project is designed for educational purposes and as a demonstration of building and deploying a web-based medical tool.
+
+📸 Screenshots
+Homepage
+ 
+ 
+
+ 
+Prediction Result
+ 
+ 
+ 
+
+ 
+
+🧠 Workflow Diagram
+flowchart LR
+    A[User Inputs Symptoms] --> B[Flask Web App]
+    B --> C[Rule-Based Logic]
+    C --> D[Possible Disease Prediction]
+    D --> E[Display on Web UI]
 
 🚀 Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Follow these steps to run the application locally.
 
 Prerequisites
-You'll need to have Python 3.9 and above, pip installed on your system.
-Installation
-Clone the repository from GitHub to your local machine:
+•	Python 3.9+
+•	pip (Python package manager)
 
+Installation
+1.	Clone the repository
 git clone https://github.com/Masngo/disease-prediction-app.git
 cd disease-prediction-app
-
-Create and activate a virtual environment. This is a best practice to manage project dependencies.
-
-On macOS and Linux:
-
+2.	Create and activate a virtual environment
+macOS/Linux:
 python3 -m venv venv
 source venv/bin/activate
-
-On Windows:
-
+Windows:
 python -m venv venv
 venv\Scripts\activate
-
-
-Install the required packages using the requirements.txt file:
-
+3.	Install dependencies
 pip install -r requirements.txt
 
-
 Usage
-To run the application locally, use the following command:
-
+Run the application:
 flask run
-
-The application should now be running at http://127.0.0.1:5000/.
+Visit the app in your browser:
+http://127.0.0.1:5000/
 
 🛠️ Deployment
-This application is ready to be deployed on platforms like Render. The required gunicorn dependency is included in requirements.txt.
+This app is ready for deployment on platforms like Render or Heroku.
+Build Command:
+pip install -r requirements.txt
+Start Command:
+gunicorn app:app
 
-Build Command: pip install -r requirements.txt
+📂 Project Structure
+disease-prediction-app/
+│
+├── app.py                 # Flask application
+├── templates/             # HTML templates
+├── static/                # CSS, JS, Images
+├── requirements.txt       # Dependencies
+├── assets/                # Screenshots
+└── README.md              # Documentation
 
-Start Command: gunicorn app:app
+✍️ Author
+Masango Dewheretsoko
+•	GitHub
+•	LinkedIn
 
-✍️ Author 
 
-Masango Dewheretsoko - GitHub | LinkedIn
