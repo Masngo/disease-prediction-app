@@ -70,7 +70,9 @@ pip install -r requirements.txt
 Usage
 Run the application:
 flask run
-Visit the app in your browser:
+
+Visit the app in your browser: 
+
 http://127.0.0.1:5000/
 
 🛠️ Deployment
@@ -83,7 +85,7 @@ pip install -r requirements.txt
 
 Start Command:
 
-gunicorn app:app
+gunicorn app: app
 
 📂 Project Structure
 disease-prediction-app/
