@@ -49,4 +49,3 @@ Start Command: gunicorn app:app
 ✍️ Author 
 
 Masango Dewheretsoko - GitHub | LinkedIn
-
