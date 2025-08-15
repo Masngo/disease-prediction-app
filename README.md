@@ -35,6 +35,7 @@ Follow these steps to run the application locally.
 
 Prerequisites
 •	Python 3.9+
+
 •	pip (Python package manager)
 
 Installation
@@ -66,6 +67,7 @@ gunicorn app:app
 
 📂 Project Structure
 disease-prediction-app/
+
 │
 ├── app.py                 # Flask application
 ├── templates/             # HTML templates
