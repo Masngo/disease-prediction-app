@@ -8,15 +8,20 @@ This project is designed for educational purposes and as a demonstration of buil
 📸 Screenshots
 
 Homepage
+<img width="1358" height="631" alt="home" src="https://github.com/user-attachments/assets/02813cf7-7a09-44ef-94c2-4ac6d6917944" /> 
 
- 
- 
- 
- 
+<img width="1349" height="438" alt="home3" src="https://github.com/user-attachments/assets/aa2b29c9-b1c3-4120-809e-06aae4ed173a" /> 
+
 
  
 Prediction Result
- 
+
+<img width="1334" height="626" alt="prediction" src="https://github.com/user-attachments/assets/987b80ca-7946-4924-a490-0fbc76c4a189" />
+
+<img width="1276" height="694" alt="prediction 1" src="https://github.com/user-attachments/assets/30eeab55-1bd5-4487-971e-160677d1de52" />
+
+
+
  
  
 
