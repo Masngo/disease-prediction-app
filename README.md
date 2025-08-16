@@ -23,13 +23,6 @@ Prediction Result
 
 
 
- 
- 
-
- 
-
-
-
 
 🧠 Workflow Diagram
 
@@ -102,7 +95,11 @@ disease-prediction-app/
 
 ├── assets/                # Screenshots
 
-└── README.md              # Documentation
+└── README.md              # 
+Documentation
+
+Connect with Me For networking and opportunities, feel free to connect with me on LinkedIn: https://www.linkedin.com/in/masango-dewheretsoko-5ba182148
+
 
 ✍️ Author
 Masango Dewheretsoko
